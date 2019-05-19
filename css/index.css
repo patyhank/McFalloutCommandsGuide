@@ -3,9 +3,9 @@
    position: absolute;
    top: 49;
    height: 32;
+   font-family: 'Minecraft';
  }
 #chest {
    background-image: url('https://patyhank.github.io/McFalloutCommandsGuide/images/chest.png');
    background-repeat:no-repeat;
-   font-family: 'Minecraft';
    }
