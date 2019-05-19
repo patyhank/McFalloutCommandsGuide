@@ -1,8 +1,8 @@
 @import url("https://patyhank.github.io/McFalloutCommandsGuide/css/minecraft-webfont.css");
 #chesttext {
    position: absolute;
-   top: 47;
-   height: 29;
+   top: 32;
+   height: 45;
    font-family: 'Minecraft';
    font-size: 15;
  }
