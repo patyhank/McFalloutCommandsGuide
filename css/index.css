@@ -1,9 +1,9 @@
 #chesttext {
    position: absolute;
-   top: 12;
-   right: 10;
-   width: 127;
-   height: 29;
+   top: 12px;
+   right: 10px;
+   width: 127px;
+   height: 29px;
  }
 #chest {
    background-image: url('https://patyhank.github.io/McFalloutCommandsGuide/images/chest.png');
