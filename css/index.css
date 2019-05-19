@@ -2,9 +2,9 @@
 #chesttext {
    position: absolute;
    top: 32;
-   right: 82;
+   left: 72;
    font-family: 'Minecraft';
-   font-size: 25;
+   font-size: 30;
  }
 #chest {
    background-image: url('https://patyhank.github.io/McFalloutCommandsGuide/images/chest.png');
