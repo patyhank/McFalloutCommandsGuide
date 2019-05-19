@@ -6,5 +6,6 @@
    height: 29;
  }
 #chest {
-   　background-image: url('https://patyhank.github.io/McFalloutCommandsGuide/images/chest.png');
+   background-image: url('https://patyhank.github.io/McFalloutCommandsGuide/images/chest.png');
+   background-repeat:no-repeat;
    }
