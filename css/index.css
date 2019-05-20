@@ -9,4 +9,36 @@
 #chest {
    background-image: url('https://patyhank.github.io/McFalloutCommandsGuide/images/chest.png');
    background-repeat:no-repeat;
-   }
+}
+.invslot {
+   position:relative;
+   display:inline-block;
+   background:#8B8B8B no-repeat center center / 32px 32px;
+   border:2px solid;
+   border-color:#373737 #FFF #FFF #373737;
+   width:32px;
+   height:32px;
+   font-size:16px;
+   line-height:1;
+   text-align:left;
+   vertical-align:bottom
+}
+.sprite {
+   display:inline-block;
+   vertical-align:text-top;
+   height:16px;
+   width:16px;
+   background-repeat:no-repeat
+}
+.sprite + .sprite-text {
+   padding-left:0.312em
+}
+.inv-sprite,
+.slot-sprite {
+   width:32px;
+   height:32px;
+   vertical-align:middle
+}
+.sprite:hover .sprite-text {
+   visibility: visible;
+}
