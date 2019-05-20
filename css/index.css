@@ -57,3 +57,9 @@
 .invslot:hover .sprite-text {
    visibility: visible;
 }
+.inv-sprite,
+.slot-sprite {
+ width:32px;
+ height:32px;
+ vertical-align:middle
+}
