@@ -36,6 +36,7 @@
    text-align:left;
    vertical-align:text-top;
    font-family: 'Minecraft';
+   z-index: -99;
 }
 .sprite-text {
    display:inline-block;
