@@ -31,14 +31,16 @@
    border:2px solid;
    border-color:#240354;
    font-size:16px;
+   color: white;
    text-align:left;
-   vertical-align:bottom
+   vertical-align:bottom;
+   font-family: 'Minecraft';
 }
 .sprite-text {
    display:inline-block;
    vertical-align:text-top;
-   height:16px;
-   width:16px;
+   height:30px;
+   width:45px;
    background-repeat:no-repeat
 }
 .sprite {
