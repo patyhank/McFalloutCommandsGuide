@@ -27,14 +27,13 @@
    visibility: hidden;
    position:relative;
    display:inline-block;
-   background:#8B8B8B no-repeat center center / 32px 32px;
+   background:#10010F no-repeat center center / 32px 32px;
    border:2px solid;
-   border-color:#373737 #FFF #FFF #373737;
-   width:32px;
-   height:32px;
+   border-color:#240354;
    font-size:16px;
    line-height:1;
    text-align:left;
+   font-family: 'Minecraft';
    vertical-align:bottom
 }
 .sprite-text {
