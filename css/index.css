@@ -28,9 +28,11 @@
    position:relative;
    display:inline-block;
    background:#10010F no-repeat center center / 128px 32px;
-   border:2px solid;
+   border:30px 40px solid;
    border-color:#240354;
    font-size:16px;
+   height:30px;
+   width:45px;
    color: white;
    text-align:left;
    vertical-align:bottom;
