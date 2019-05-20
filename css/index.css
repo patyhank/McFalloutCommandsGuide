@@ -27,12 +27,11 @@
    visibility: hidden;
    position:relative;
    display:inline-block;
-   background:#10010F no-repeat center center;
+   background:#10010F no-repeat center center / 128px 32px;
    border:2px solid;
    border-color:#240354;
    font-size:16px;
    text-align:left;
-   font-family: 'Minecraft';
    vertical-align:bottom
 }
 .sprite-text {
@@ -44,14 +43,12 @@
 }
 .sprite {
    display:inline-block;
-   vertical-align:text-top;
-   height:16px;
-   width:16px;
+   vertical-align:text-bottom;
+   height:30px;
+   width:45px;
    background-repeat:no-repeat
   }
-.sprite + .sprite-text {
-   padding-left:0.312em
-}
+
 .invslot:hover .sprite-text {
    visibility: visible;
 }
