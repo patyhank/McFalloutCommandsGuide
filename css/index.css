@@ -29,11 +29,10 @@
    display:inline-block;
    background:#10010F no-repeat center center / 128px 32px;
    border:5px solid;
-   background-size: auto;
    border-color:#240354;
    font-size:16px;
-   height:30px;
-   width:45px;
+   height:20px;
+   width:max-content;
    color: white;
    text-align:left;
    vertical-align:bottom;
