@@ -44,6 +44,16 @@
    width:16px;
    background-repeat:no-repeat
 }
-.sprite:hover .sprite-text {
+.sprite {
+   display:inline-block;
+   vertical-align:text-top;
+   height:16px;
+   width:16px;
+   background-repeat:no-repeat
+  }
+.sprite + .sprite-text {
+   padding-left:0.312em
+}
+.invslot:hover .sprite-text {
    visibility: visible;
 }
