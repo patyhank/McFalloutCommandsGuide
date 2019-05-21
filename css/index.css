@@ -38,6 +38,13 @@
    font-family: 'Minecraft';
    z-index: 99;
 }
+.invslot > a.new:first-child {
+   background:url(https://minecraft-zh.gamepedia.com/media/4/44/InvSprite.png) no-repeat content-box;
+   width:32px;
+   height:32px;
+   text-indent:-9999px;
+   overflow:hidden
+  }
 .sprite-text {
    display:inline-block;
    vertical-align:text-top;
