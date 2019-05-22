@@ -46,6 +46,7 @@
    overflow:hidden
   }
 .sprite-text {
+   
    display:inline-block;
    vertical-align:text-top;
    height:30px;
