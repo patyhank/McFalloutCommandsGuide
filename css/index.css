@@ -73,3 +73,9 @@
 .nobr {
    white-space:nowrap!important;
 }
+.nobr p {
+   display: inline-block;
+ }
+ .nobr .br{
+   display: block;
+ }
