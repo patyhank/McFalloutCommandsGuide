@@ -69,4 +69,6 @@
  height:32px;
  vertical-align:middle
 }
-.p{ white-space:nowrap; } 
+p{
+   white-space:nowrap; 
+} 
