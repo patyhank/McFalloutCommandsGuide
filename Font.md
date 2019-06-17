@@ -13,7 +13,7 @@
 #### 第四名： SetoFonts
 > 示意圖:
 
-![75dd30bf.png](:storage\936fd03a-94f0-4c7f-9624-4e6dbe6722b8\61f301a1.png)
+![800x600_0.png](https://static-cdn.osdn.net/thumb/g/5/190/800x600_0.png)
 這個字體跟上面差不多
 不過缺字較少 較推薦
 官方網站：[**點我**](http://setofont.osdn.jp/)
